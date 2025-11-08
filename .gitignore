@@ -1,0 +1,21 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore VS Code settings (optional)
+.vscode/
+
+# Ignore system files (Windows/macOS)
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.log
+tempCodeRunnerFile.py
+
+# Ignore plot/output images (optional)
+elbow_plot.png
